@@ -1,0 +1,25 @@
+html {
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font: 16px / 1 sans-serif;
+   background-image: url(http://wp.fotc.us/wp-content/uploads/2012/11/missions-1024x1024.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   color: white;
+   text-shadow: .1em .1em gray;
+}
+#header.site { color: blue; 
+               text-align: center;
+}
+.textbox {
+    max-width: 1000px; 
+    float: inherit; 
+    margin: auto;
+    padding: 10px;
+    background-image: radial-gradient(blue, gray);
+    border: 5px solid black;
+}
+
